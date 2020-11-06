@@ -1,13 +1,13 @@
 import 'react-native-gesture-handler';
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import HomeTab from './src/navigation/hometab'
+import HomeDrawer from './src/navigation/HomeDrawer'
 
 
 const App=()=> {
   return (
     <NavigationContainer>
-      <HomeTab/>
+      <HomeDrawer/>
     </NavigationContainer>
   );
 };
