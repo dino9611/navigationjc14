@@ -5,9 +5,7 @@ import {Text} from 'react-native';
 import Hometab from './hometab'
 import {SettingScreen,} from '../screen'
 
-
 const Drawer=createDrawerNavigator()
-
 
 export default ProfileDrawer=()=>{
     return(

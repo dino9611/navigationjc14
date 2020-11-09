@@ -5,7 +5,7 @@ import ProfileScreen from './profileScreen'
 import SettingScreen from './settingScreen'
 import LoginScreen from './loginScreen'
 import RegisterScreen from './Registerscreen'
-
+import SplashScreen from './SplashScreen'
 
 export {
     FeedScreen,
@@ -14,5 +14,6 @@ export {
     ProfileScreen,
     SettingScreen,
     LoginScreen,
-    RegisterScreen
+    RegisterScreen,
+    SplashScreen
 }

@@ -3,7 +3,6 @@ import {createBottomTabNavigator} from '@react-navigation/bottom-tabs'
 import {Icon} from 'native-base'
 import {Text} from 'react-native';
 import HomeStack from './homestack'
-import ProfileDrawer from './HomeDrawer'
 import {FeedScreen,ProfileScreen} from './../screen'
 
 const Tab=createBottomTabNavigator()
